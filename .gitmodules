@@ -1,0 +1,3 @@
+[submodule "TripleGeo"]
+	path = TripleGeo
+	url = https://github.com/GeoKnow/TripleGeo.git
